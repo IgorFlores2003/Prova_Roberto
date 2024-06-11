@@ -1,4 +1,4 @@
-package com.example.dto;
+package br.edu.univas.dto;
 
 import java.util.Date;
 
