@@ -23,7 +23,7 @@ import io.restassured.response.Response;
 public class ProductIntegrationTest {
 
     private ObjectMapper mapper = new ObjectMapper();
-    private final String employeeURL = "http://localhost:8080/api/employee";
+    private final String employeeURL = "http://localhost:8084/api/employee";
 
     @Test
     public void testGetEmployeeById_Success() {
